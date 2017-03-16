@@ -30,7 +30,7 @@ function chronometer() {
     }
 
     // adds data in #showtm
-    document.getElementById('showtm').innerHTML = mints+ ' : '+ seconds+ ' : '+ zecsec;
+    document.getElementById('showtm').innerHTML = mints+ '<sub>m</sub> : '+ seconds+ '<sub>s</sub> : '+ zecsec;
 
     // if the chronometer reaches to the values for stop, calls whenChrStop(), else, auto-calls chronometer()
     if(zecsec == stzecsec && seconds == stseconds && mints == stmints) toAutoStop();
