@@ -20,7 +20,7 @@ Um dos melhores conceitos que o AngularJS oferece é o de “Single Page”, ond
 - **Firebase Authentication** foi o serviço de autenticação escolhido para permitir que os usuários se autentiquem. Com o Firebase usando endereços de e-mail e senhas e para gerenciar as contas baseadas em senhas.
 
 ## Facilidades e Dificuldades
-- **facilidades: ** Trabalhar com tecnológias front-end como angular2 e materializecss que facilitam o desenvolvimento
-- **dificuldades: ** Elaborar o algoritimo do Problema da Combinação pois o tempo de entrega do projeto foi muito curto, tendo em vista que estava realizando outros testes de admissão, tive pouco tempo pra me dedicar a este teste!
+- **facilidades:** Trabalhar com tecnológias front-end como angular2 e materializecss que facilitam o desenvolvimento
+- **dificuldades:** Elaborar o algoritimo do Problema da Combinação pois o tempo de entrega do projeto foi muito curto, tendo em vista que estava realizando outros testes de admissão, tive pouco tempo pra me dedicar a este teste!
 
 [Bruno Carvalho](http://bruno.url.ph/)
