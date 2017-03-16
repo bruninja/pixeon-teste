@@ -5,7 +5,7 @@
 1. Instalar [angular-cli](https://github.com/angular/angular-cli)
 2. Clone repositório `git clone https://github.com/bruninja/pixeon-teste.git`
 3. Executar `npm install`
-4. Rodar `ng serve` para gerar servidor.
+4. Rodar `npm start` para gerar servidor.
 5. Navegar até `http://localhost:4200/`
 6. Pronto!
 Obs:.Projeto gerado com [angular-cli](https://github.com/angular/angular-cli) versão 1.0.0-beta.15.
