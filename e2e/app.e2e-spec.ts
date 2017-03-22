@@ -1,10 +1,10 @@
-import { Angular2FirebaseAuthPage } from './app.po';
+import { TestePage } from './app.po';
 
-describe('angular2-firebase-auth App', function() {
-  let page: Angular2FirebaseAuthPage;
+describe('teste App', () => {
+  let page: TestePage;
 
   beforeEach(() => {
-    page = new Angular2FirebaseAuthPage();
+    page = new TestePage();
   });
 
   it('should display message saying app works', () => {

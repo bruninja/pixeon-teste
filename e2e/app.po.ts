@@ -1,6 +1,6 @@
-import { browser, element, by } from 'protractor/globals';
+import { browser, element, by } from 'protractor';
 
-export class Angular2FirebaseAuthPage {
+export class TestePage {
   navigateTo() {
     return browser.get('/');
   }

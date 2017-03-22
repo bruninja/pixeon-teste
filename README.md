@@ -1,26 +1,28 @@
+# Teste
 
-# Pixeon - Teste
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.4.
 
-## Instruções de Instalação
-1. Instalar [angular-cli](https://github.com/angular/angular-cli)
-2. Clone repositório `git clone https://github.com/bruninja/pixeon-teste.git`
-3. Executar `npm install`
-4. Rodar `npm start` para gerar servidor.
-5. Navegar até `http://localhost:4200/`
-6. Pronto!
-Obs:.Projeto gerado com [angular-cli](https://github.com/angular/angular-cli) versão 1.0.0-beta.15.
+## Development server
 
-## Sobre SPA e AngularJS
-Um dos melhores conceitos que o AngularJS oferece é o de “Single Page”, onde os recursos apropriados são dinamicamente carregados e adicionados à página, conforme necessário, geralmente em resposta a ações do usuário.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Trabalho Realizado
+## Code scaffolding
 
-## Escolhas Realizadas
-- Foi utilizado o framework ANGULAR 2 para a construção da SPA e optei pela escolha do MaterializeCSS ao invés do Twitter Booststrap por ser um framework front-end mais leve e semântico.
-- **Firebase Authentication** foi o serviço de autenticação escolhido para permitir que os usuários se autentiquem. Com o Firebase usando endereços de e-mail e senhas e para gerenciar as contas baseadas em senhas.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
 
-## Facilidades e Dificuldades
-- **facilidades:** Trabalhar com tecnológias front-end como angular2 e materializecss que facilitam o desenvolvimento
-- **dificuldades:** Elaborar o algoritimo do Problema da Combinação pois o tempo de entrega do projeto foi muito curto, tendo em vista que estava realizando outros testes de admissão, tive pouco tempo pra me dedicar a este teste!
+## Build
 
-[Bruno Carvalho](http://bruno.url.ph/)
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Before running the tests make sure you are serving the app via `ng serve`.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
